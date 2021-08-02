@@ -2,6 +2,9 @@
 Not an official blk00000.dat for antimony.
 
 Unpack the file.
+<br>
 Clear your blocks directory.
+<br>
 Place the unpacked file in your antimony blocks directory
-start antimony with -reindex
+<br>
+Start antimony with -reindex
