@@ -1,7 +1,7 @@
 # AntimonyBootstrap
 Not an official blk00000.dat for antimony.
 
-Unpack the file.
+Download and unpack the file.
 <br>
 Clear your blocks directory.
 <br>
